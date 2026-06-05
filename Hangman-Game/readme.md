@@ -58,7 +58,7 @@ The project includes multiple categories, difficulty levels, hints, scoring syst
 ```text
 Hangman-Game/
 │
-├── nitin.py
+├── hangman.py
 ├── README.md
 ```
 
@@ -81,13 +81,13 @@ cd Hangman-Game
 ### Step 3: Run the Program
 
 ```bash
-python nitin.py
+python hangman.py
 ```
 
 or
 
 ```bash
-py nitin.py
+py hangman.py
 ```
 
 ---
