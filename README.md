@@ -229,4 +229,6 @@ This repository is created for educational and learning purposes.
 
 Special thanks to **CodeAlpha** for providing this opportunity to learn, build, and enhance my Python development skills.
 
-**Made with ❤️ by Nitin Rajawat**
+## 🙎‍♂️Author
+
+**Nitin Rajawat**
